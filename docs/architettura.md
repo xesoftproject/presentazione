@@ -11,5 +11,5 @@ La mossa successiva trovata dal chess engine sarà notificata al browser che "mu
 
 ## Grafico
 
-[Edit]https://app.diagrams.net/?mode=github#Hxesoftproject%2Fpresentazione%2Fmaster%2Fdocs%2Farchitettura.png
+[Edit](https://app.diagrams.net/?mode=github#Hxesoftproject%2Fpresentazione%2Fmaster%2Fdocs%2Farchitettura.png)
 ![Architettura](architettura.png)
